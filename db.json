@@ -1,0 +1,13 @@
+{
+    "task": [
+      {
+        "name": "Faizan",
+        "email": "Khanfaizan2505@gmail.com",
+        "phone": "08299651725",
+        "dob": "2022-09-20",
+        "gender": "male",
+        "hobbies": "DebugCode",
+        "id": 1
+      }
+    ]
+  }
